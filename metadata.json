@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Custom Persona Chat",
+  "description": "A highly aesthetic, customizable AI chat interface where users can define the AI's persona using System Instructions. Optimized for Blogger embedding via React build.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
